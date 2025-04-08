@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Spring Fling this Friday!",
+    "summary": "Food trucks, games, music & more.",
+    "imageURL": "https://via.placeholder.com/600x300.png?text=Spring+Fling",
+    "link": "https://www.easternct.edu/events/spring-fling"
+  },
+  {
+    "title": "Campus Center Opens",
+    "summary": "Tour the facility all week.",
+    "imageURL": "https://via.placeholder.com/600x300.png?text=Campus+Center",
+    "link": "https://www.easternct.edu/news/campus-center-opens.html"
+  },
+  {
+    "title": "Career Fair April 12",
+    "summary": "Meet employers from across the state.",
+    "imageURL": "https://via.placeholder.com/600x300.png?text=Career+Fair",
+    "link": "https://www.easternct.edu/career"
+  }
+]
